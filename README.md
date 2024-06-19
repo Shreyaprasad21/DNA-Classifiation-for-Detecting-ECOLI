@@ -10,7 +10,7 @@ This project involves the classification of DNA sequences to detect the presence
 4. Initialize tables: `python manage.py migrate`
 5. Run the server: `python manage.py runserver`
 
-## Project Structure
+## Project Structure                             
 
 - The main project folder contains Django settings and configurations.
 - The app folder (`mysite/polls`) includes views, models, and templates for the web application.
