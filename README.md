@@ -6,7 +6,7 @@ This project involves the classification of DNA sequences to detect the presence
 
 1. Create a Django project: `django-admin startproject <project_name>`
 2. Create a Django app: `python manage.py startapp <app_name>`
-3. Set up `settings.py` in the project directory.
+3. Set up `settings.py` in the project directory.       
 4. Initialize tables: `python manage.py migrate`
 5. Run the server: `python manage.py runserver`
 
