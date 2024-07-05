@@ -53,7 +53,6 @@ The project includes a web-based application that performs DNA sequencing to det
 - `mysite/`: Directory containing the Django project files.
   - `manage.py`: Main script to run the Django server.
 - `DNA sequencing for detecting E.Coli.ipynb`: Jupyter notebook with the DNA sequencing and classification logic.
-- `image-1.png`: Additional image file.
 - `image.png`: Additional image file.
 
 ## Contributing
