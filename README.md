@@ -24,12 +24,12 @@ The project includes a web-based application that performs DNA sequencing to det
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Feynn-AI-Product-Prototype.git
+    https://github.com/Shreyaprasad21/DNA-Classifiation-for-Detecting-ECOLI.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Feynn-AI-Product-Prototype/mysite
+    cd DNA-Classifiation-for-Detecting-ECOLI/mysite
     ```
 
 3. Install the required dependencies
