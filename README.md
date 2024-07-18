@@ -1,7 +1,7 @@
 # DNA Classification for Detecting E.COLI Bacteria
 
 This repository contains a DNA classification app for detecting E. Coli bacteria.             
-
+     
 ## Project Overview
 
 ### Description
