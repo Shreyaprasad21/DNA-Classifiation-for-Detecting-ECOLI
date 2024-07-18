@@ -3,7 +3,7 @@
 This repository contains a DNA classification app for detecting E. Coli bacteria.             
      
 ## Project Overview
-
+  
 ### Description
 The project includes a web-based application that performs DNA sequencing to detect E. Coli. The application leverages machine learning techniques to classify DNA sequences accurately.
 
